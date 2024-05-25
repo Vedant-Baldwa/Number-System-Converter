@@ -1,4 +1,4 @@
-![alt text](images/Screenshot(25).png)
+![alt text](images/Screenshot.png)
 # Number System Converter
 This project is a Number System Converter where a user can convert a number from one number system to another
 ## Technologies used
