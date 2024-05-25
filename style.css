@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+    margin: auto;
+    background-image: url(yyy.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.title {
+    font-size: 2.3rem;
+    color: rgba(222, 241, 56, 0.756);
+    text-decoration: underline 3px rgb(207, 87, 189);
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    max-width: 40rem;
+    margin: auto;
+    margin-top: 11%;
+    box-shadow: 0 4px 10px rgb(50, 47, 50);
+    background-color: rgb(35, 36, 36);
+    opacity: 0.9;
+    border-radius: 0 10px;
+    padding: 3%;
+}
+
+section {
+    font-size: x-large;
+    font-family: "Poetsen One", sans-serif;
+    padding: 2%;
+    margin: auto;
+    text-align: left;
+}
+span>label {
+    width: 100%;
+    color: blueviolet;
+}
+
+.option {
+    display: flex;
+    flex-direction: column;
+}
+
+.option>span {
+    display: flex;
+    padding: 2%;
+}
+
+select {
+    width: 90%;
+    font-size: medium;
+    font-family: "Poetsen One", sans-serif;
+    outline: none;
+}
+
+input {
+    width: 60%;
+    font-size: large;
+    font-family: "Poetsen One", sans-serif;
+}
